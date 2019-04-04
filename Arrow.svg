@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <svg width="19" height="12" viewBox="0 0 19 12" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 10.1569L13 11.6569L18.6568 6L13 0.343146L11.5 1.84315L15.6568 6L11.5 10.1569Z" fill="white"/>
 <rect y="5" width="17" height="2" fill="white"/>
 </svg>
+=======
+<svg width="19" height="12" viewBox="0 0 19 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.5 10.1569L13 11.6569L18.6568 6L13 0.343146L11.5 1.84315L15.6568 6L11.5 10.1569Z" fill="white"/>
+<rect y="5" width="17" height="2" fill="white"/>
+</svg>
+>>>>>>> 091d13bf7a75d721a114006591c317858b63fe54
